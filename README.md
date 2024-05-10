@@ -11,11 +11,11 @@
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Loli-Lain/LoLi-Lain/output/github-contribution-grid-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/CalmLexi/CalmLexi/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github.com/Loli-Lain/LoLi-Lain/blob/output/github-contribution-grid-snake.svg" />
+      srcset="https://github.com/CalmLexi/CalmLexi/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake"
-      src="https://raw.githubusercontent.com/Loli-Lain/LoLi-Lain/output/github-contribution-grid-snake-dark.svg" />
+      src="https://raw.githubusercontent.com/CalmLexi/CalmLexi/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -51,8 +51,8 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LoLi-Lain&show_icons=true&theme=transparent&locale=cn" alt="标签">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loli-lain" alt="标签">
+<img src="https://github-readme-stats.vercel.app/api?username=CalmLexi&show_icons=true&theme=transparent&locale=cn" alt="标签">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CalmLexi" alt="标签">
 </p>
 <tr><td>
 </table>
@@ -60,4 +60,4 @@
 ### 奇怪的图
 
 <div align="center"> <img src="https://repobeats.axiom.co/api/embed/c368c3a9037dc0f7b675c4cc24363ec85499af4c.svg" /></div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=loli-lain&bg_color=ffffff&color=d56cce&line=a29696&point=ee2f2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CalmLexi&bg_color=ffffff&color=d56cce&line=a29696&point=ee2f2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></div>
