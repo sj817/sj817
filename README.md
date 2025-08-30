@@ -19,14 +19,12 @@
   </picture>
 </div>
 
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="./image/hr.gif" />
 
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sj817&show_icons=true&theme=transparent&locale=cn" alt="标签">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shijinn520" alt="标签">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sj817" alt="标签">
 </p>
 <tr><td>
 </table>
