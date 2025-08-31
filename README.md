@@ -1,15 +1,3 @@
-<!-- 以下来自这位大佬的主页~ https://github.com/sun0225SUN -->
-<div align="center">
-
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&random=false&width=600&size=27&lines=抚卷灯下，万念归一。;代码如诗，心之所向。;热爱编程，热爱生活。"
-        alt="Typing SVG" /></a>
-  </div>
-
-</div>
-
 <!-- ########################################## About Me ########################################## -->
 <div align="center">
 
