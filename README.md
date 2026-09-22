@@ -113,13 +113,13 @@
 ### 数据统计
 
 <div align="center">
-  <table border="0">
+  <table width="100%">
     <tr>
-      <td>
-        <img height="165em" src="https://github-stats-extended.vercel.app/api?username=sj817&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub 统计" />
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api?username=sj817&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub 统计" />
       </td>
-      <td>
-        <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sj817&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="常用语言统计" />
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sj817&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" alt="常用语言统计" />
       </td>
     </tr>
   </table>
