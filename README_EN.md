@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Shijin (sj817)
+# Shijin (Lain.)
 
 *Carving away the noise, crafting what matters.*
 
